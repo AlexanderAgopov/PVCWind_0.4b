@@ -11,7 +11,7 @@ The purpose of this application is to help window and frame manufacturers in man
 New features in version 0.4b: 
 - allows input of mechanism, inner window seal and outer window seal  price per unit/linear meter; 
 - allows calculation of mechanisms and window seal required for the production of each item; 
-- displays the aggregated quantities of these materials needed for order completion.
+- displays the aggregated quantities of these materials needed for order execution.
 
 This application is created as a study project and is not intended for actual use by real manufacturers, nor is any kind of trade product!
   
